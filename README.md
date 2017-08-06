@@ -1,5 +1,5 @@
 # ExampleCode_ING
-## Examples of code written by ADS; provided in connection with application for Data Scientist at ING.
+Examples of code written by ADS; provided in connection with application for Data Scientist at ING.
 
 
 ## #1
